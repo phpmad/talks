@@ -26,9 +26,9 @@ de la comunidad. Si eres víctima de conductas abusivas, ves a otra persona
 que está siendo acosada, o tienes dudas, por favor contacta con el equipo
 organizador inmediatamente.
 
-### MadridJS
+### PHPMad
 
-* Organizadores: Joaquín Fernández Campo [@xocas__](https://twitter.com/xocas__).
+* Organizadores: Joaquín Fernández Campo ([@xocas__](https://twitter.com/xocas__)), Adoración González ([@srtaDeveloper](https://twitter.com/srtaDeveloper)).
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor contacta con uno de los organizadores.**
