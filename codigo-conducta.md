@@ -28,7 +28,7 @@ organizador inmediatamente.
 
 ### PHPMad
 
-* Organizadores: Joaquín Fernández Campo ([@xocas__](https://twitter.com/xocas__)), Adoración González ([@srtaDeveloper](https://twitter.com/srtaDeveloper)), Moises Gallego ([@moisesgallego](https://twitter.com/moisesgallego)), Daniel González ([@desarrolla2](https://twitter.com/desarrolla2)).
+* Organizadores: Joaquín Fernández Campo ([@xocas__](https://twitter.com/xocas__)), Adoración González ([@srtaDeveloper](https://twitter.com/srtaDeveloper)), Moises Gallego ([@moisesgallego](https://twitter.com/moisesgallego)), Daniel González ([@desarrolla2](https://twitter.com/desarrolla2)), Francisco Santamaría ([@kikobolinagas](https://twitter.com/kikobolinagas)).
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor contacta con uno de los organizadores.**
